@@ -95,6 +95,10 @@ DEPENDENCIES
   jekyll (~> 3.6.0)
   jekyll-data
   jekyll-feed (~> 0.6)
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
   minimal-mistakes-jekyll
   tzinfo-data
 
