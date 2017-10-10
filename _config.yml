@@ -26,9 +26,14 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+minimal_mistakes_skin: dark
+
+paginate: 10
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
