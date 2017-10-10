@@ -27,6 +27,17 @@ locale: "en"
 twitter:
   username: "jazzinghen"
 
+author:
+  name      : "Jazzinghen"
+  avatar    : "/assets/images/avatar.jpg"
+  bio       : "This is one of those experiments that will go well for a month or so."
+  location  : "Trento - Italy"
+  email     : # optional
+  linkedin  : "jazzinghen"
+  twitter   : "jazzinghen"
+  github    : "Jazzinghen"
+  steam     : "Jazzinghen"
+
 repository: "Jazzinghen/DayStriders"
 
 # Build settings
