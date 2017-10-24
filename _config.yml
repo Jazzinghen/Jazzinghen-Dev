@@ -13,12 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Day Striders
+title: Dusk Explorers
 email: jazzinghen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Like the two blogs before this, this is meant to be a place where I
+  write down stuff that happens to me just to vent or just to show people
+  far away what's happening to me.
+  I sometime takes some pictures and I would like to show them, adding a
+  comment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jazzinghen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +32,7 @@ twitter:
 author:
   name      : "Jazzinghen"
   avatar    : "/assets/images/avatar.jpg"
-  bio       : "This is one of those experiments that will go well for a month or so."
+  bio       : "Keeping your target in sight might lead you to reach it."
   location  : "Trento - Italy"
   email     : # optional
   linkedin  : "jazzinghen"
