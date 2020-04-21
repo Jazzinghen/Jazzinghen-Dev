@@ -13,57 +13,44 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dusk Explorers
-email: jazzinghen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Like the two blogs before this, this is meant to be a place where I
-  write down stuff that happens to me just to vent or just to show people
-  far away what's happening to me.
-  I sometime takes some pictures and I would like to show them, adding a
-  comment.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jazzinghen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-locale: "en"
-
+title: "Michele \"Jazzinghen\" Bianchi"
+subtitle: "80% Videogames, 20% Rest"
+name: "Michele Bianchi"
+email: michele.bianchi@protonmail.com
+description: >-
+  Michele Bianchi is a software engineer with a soft spot for videogames, tabletop
+  Role Playing Games, Anime and writing code to make the life of his colleagues easier.
+  He's alyways on the lookout for the next projet that will make his blood boil with
+  passion.
 twitter:
   username: "jazzinghen"
+github:
+  username: "jazzinghen"
 
-author:
-  name      : "Jazzinghen"
-  avatar    : "/assets/images/avatar.jpg"
-  bio       : "Keeping your target in sight might lead you to reach it."
-  location  : "Trento - Italy"
-  email     : # optional
-  linkedin  : "jazzinghen"
-  twitter   : "jazzinghen"
-  github    : "Jazzinghen"
-  steam     : "Jazzinghen"
+minimal_mistakes_skin: dark
+search: true
+search_provider: algolia
 
-repository: "Jazzinghen/DayStriders"
+algolia:
+  application_id: RGOG1GZ294
+  index_name: DayStriders
+  search_only_api_key: c579797944fb5f353e467fdc9d67d8ab
+  powered_by: true
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Tokyo
+repository: "jazzinghen/DayStriders"
+url: "https://jazzinghen.dev"
 
-minimal_mistakes_skin: dark
 
-paginate: 5
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: false
-      share: true
-      elated: true
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -76,3 +63,70 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Michele Bianchi"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio: "" # Note: Markdown is allowed
+  location: "Tokyo, Japan"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jazzinghen"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jazzinghen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jazzinghen/"
+    - label: "LeetCode"
+      icon: "fab fa-fw fa-link"
+      url: "https://leetcode.com/jazzinghen/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jazzinghen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jazzinghen/"
+    - label: "LeetCode"
+      icon: "fab fa-fw fa-link"
+      url: "https://leetcode.com/jazzinghen/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
