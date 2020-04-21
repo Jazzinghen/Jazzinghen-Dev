@@ -89,7 +89,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
     - label: "LeetCode"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-keyboard"
       url: "https://leetcode.com/jazzinghen/"
 
 footer:
@@ -101,7 +101,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
     - label: "LeetCode"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-keyboard"
       url: "https://leetcode.com/jazzinghen/"
 
 defaults:
