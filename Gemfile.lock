@@ -58,6 +58,8 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -133,6 +135,7 @@ DEPENDENCIES
   activesupport (>= 4.1.11)
   jekyll (~> 4.0)
   jekyll-algolia
+  jekyll-archives
   jekyll-feed
   jekyll-gist
   jekyll-include-cache
