@@ -76,7 +76,7 @@ plugins:
   - jekyll-archives
 
 author:
-  name   : "Michele Bianchi"
+  name   : "Michele \"Jazzinghen\" Bianchi"
   avatar : "/assets/images/self_portrait_square.png"
   bio: "" # Note: Markdown is allowed
   location: "Tokyo, Japan"
