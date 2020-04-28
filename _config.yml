@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Michele \"Jazzinghen\" Bianchi"
+title: "Michele Bianchi"
 subtitle: "80% Videogames, 20% Rest"
-name: "Michele Bianchi"
+name: "Michele \"Jazzinghen\" Bianchi"
 email: michele.bianchi@protonmail.com
 description: >-
   Michele Bianchi is a software engineer with a soft spot for videogames, tabletop

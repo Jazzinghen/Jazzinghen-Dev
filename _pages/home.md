@@ -4,13 +4,15 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/PANO_crop.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class=\"fas fa-scroll\"></i> Check CV"
       url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.1">Latest release v4.19.1</a></small>
+excerpt: >-
+  Software engineer with 5+ years experience in C++ development in R&D companies. <br/>
+  I have worked on multiplatform simulations, SDKs, embedded systems and CI pipelines.<br/>
+  I love videogames, tabletop RPG, anime. They are what allowed me to get here.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
