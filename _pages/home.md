@@ -12,8 +12,8 @@ header:
       url: "/resume/"
 excerpt: >-
   Software engineer with 5+ years experience in C++ development in R&D companies.<br/>
-  I have worked on multiplatform simulations, SDKs, embedded systems and CI pipelines.<br/>
-  I love videogames, tabletop RPGs, anime. They are what allowed me to get here.
+  I have worked on multiplatform simulations, SDKs, embedded systems, and CI pipelines.<br/>
+  I love videogames, tabletop RPGs, and anime. They are what allowed me to get here.
 feature_row:
   - image_path: /assets/images/Passions_Header.jpg
     alt: "passions"

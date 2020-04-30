@@ -6,10 +6,9 @@ title: My Passions
 I feel like I would not really be where I am today without a plethora of passions
 keeping my stress levels low and my brain spinning.
 
-And since they are so important to me I decided to take some time to talk a little about
-them here.
-
 ## <i class="fas fa-gamepad" style="color:#36cdc4;"></i> Videogames
+
+Videogames have been with me since forever ago. I remember when we went and 
 
 ## <i class="fas fa-dice-d20" style="color:#36cdc4;"></i> Tabletop RPGs
 
