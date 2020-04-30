@@ -2,9 +2,8 @@
 permalink: /resume/
 classes: wide
 title: Resume
+author_profile: true
 ---
-
-# Resume
 
 C++ Software Engineer with 5 years of multiplatform simulation, SDK and
 embedded systems development in R&D environments. 2 years of academic

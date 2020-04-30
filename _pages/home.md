@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: Home
+title: "Michele Bianchi"
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
