@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Michele Bianchi"
-subtitle: "80% Videogames, 20% Rest"
+# subtitle: "80% Games, 20% Other Stuff"
 name: "Michele \"Jazzinghen\" Bianchi"
 email: michele.bianchi@protonmail.com
 description: >-
