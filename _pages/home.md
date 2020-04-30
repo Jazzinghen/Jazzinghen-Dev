@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/PANO_crop.jpg
   actions:
-    - label: "<i class=\"fas fa-scroll\"></i> Check CV"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class=\"fas fa-scroll\"></i> Resume"
+      url: "/resume/"
 excerpt: >-
   Software engineer with 5+ years experience in C++ development in R&D companies. <br/>
   I have worked on multiplatform simulations, SDKs, embedded systems and CI pipelines.<br/>

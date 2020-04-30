@@ -78,12 +78,10 @@ plugins:
 author:
   name   : "Michele \"Jazzinghen\" Bianchi"
   avatar : "/assets/images/self_portrait_square.png"
-  bio: "" # Note: Markdown is allowed
+  bio: >-
+    Always in search for the next project that will put fire in my eyes
   location: "Tokyo, Japan"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jazzinghen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jazzinghen"
@@ -105,6 +103,12 @@ footer:
     - label: "LeetCode"
       icon: "fas fa-fw fa-keyboard"
       url: "https://leetcode.com/jazzinghen/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steamcommunity.com/id/Jazzinghen"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/jqfsot0xfx3ynfdcebmouip5z"
 
 defaults:
   # _posts
@@ -115,7 +119,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
   # _pages
