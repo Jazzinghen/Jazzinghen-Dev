@@ -19,9 +19,7 @@ name: "Michele \"Jazzinghen\" Bianchi"
 email: michele.bianchi@protonmail.com
 description: >-
   Michele Bianchi is a software engineer with a soft spot for videogames, tabletop
-  Role Playing Games, Anime and writing code to make the life of his colleagues easier.
-  He's alyways on the lookout for the next projet that will make his blood boil with
-  passion.
+  Role Playing Games, Anime, and writing code to make the life of his colleagues easier.
 twitter:
   username: "jazzinghen"
 github:
@@ -86,7 +84,8 @@ author:
   name   : "Michele \"Jazzinghen\" Bianchi"
   avatar : "/assets/images/self_portrait_square.png"
   bio: >-
-    Always in search for the next project that will put fire in my eyes
+    C++ Software Engineer with 5 years of multiplatform simulation, SDK and embedded
+    systems development in R&D environments. 2 years of academic research experience
   location: "Tokyo, Japan"
   links:
     - label: "GitHub"

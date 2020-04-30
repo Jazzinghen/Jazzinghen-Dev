@@ -5,29 +5,21 @@ title: Resume
 author_profile: true
 ---
 
-C++ Software Engineer with 5 years of multiplatform simulation, SDK and
-embedded systems development in R&D environments. 2 years of academic
-research experience
-
 ## Skills
 
-C++,
-Multiplatform development,
-Git,
-Software development life cycle,
-Build systems,
-Unreal Engine 4,
-CI pipelines,
-GNU/Linux,
-Shell scripting,
-Real-time image processing,
-Qt
+| Languages       | Technologies    | High-level                      |
+|:----------------|:----------------|:--------------------------------|
+| C++             | Git             | Multiplatform development       |
+| Shell scripting | Unreal Engine 4 | CI pipelines                    |
+| Python          |  GNU/Linux      | Software development life cycle |
+|                 |                 | Build systems                   |
+|                 |                 | Real-time image processing      |
 
 ## Experience
 
 ### Ascent Robotics — Senior Software Engineer
 
-**Ebisu, Tokyo (Japan)**\
+Ebisu, Tokyo (Japan)\
 _November 2017 ~ Present_
 
 - Involved in the design and development of a 3D simulator in Unreal Engine 4 for
@@ -46,7 +38,7 @@ _November 2017 ~ Present_
 
 ### FLIR Integrated Imaging Solutions — Software Developer, C++
 
-**Trento (Italy)**\
+Trento (Italy)\
 _July 2015 ~ October 2017_
 
 - Developed a multiplatform application using Qt 5.7 to demonstrate the capabilities of
@@ -62,7 +54,7 @@ _July 2015 ~ October 2017_
 
 ### University of Trento — PhD Student
 
-**Trento (Italy)**\
+Trento (Italy)\
 _November 2012 ~ June 2015_
 
 - Computer Architecture teaching assistant, handled all practical content of the course,
@@ -74,7 +66,7 @@ _November 2012 ~ June 2015_
 
 ### University of Trento — M.Sc. Computer Science
 
-**Trento (Italy)**\
+Trento (Italy)\
 _September 2010 ~ September 2012_
 
 - 4 months at Technical University of Denmark (DTU) to study computer graphics, game
@@ -83,11 +75,8 @@ _September 2010 ~ September 2012_
 
 ### University of Trento — B.Sc. Computer Science
 
-**Trento (Italy)**\
+Trento (Italy)\
 _September 2006 ~ September 2010_
-
-- 4 months at Technical University of Denmark (DTU)
-- 90th percentile in Computer Graphics, Game Prototyping and RTOS
 
 ## Awards and Publications
 
