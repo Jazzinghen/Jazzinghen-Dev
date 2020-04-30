@@ -47,6 +47,7 @@ paginate_path: /page:num/
 timezone: Asia/Tokyo
 repository: "jazzinghen/DayStriders"
 url: "https://jazzinghen.dev"
+title_separator: "<"
 
 
 include:
@@ -74,6 +75,13 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-archives
+
+social:
+  links:
+    - "https://twitter.com/Jazzinghen"
+    - "https://github.com/jazzinghen"
+    - "https://www.linkedin.com/in/jazzinghen/"
+
 
 author:
   name   : "Michele \"Jazzinghen\" Bianchi"
