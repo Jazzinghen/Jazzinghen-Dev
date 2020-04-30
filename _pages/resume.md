@@ -1,6 +1,7 @@
 ---
 permalink: /resume/
 classes: wide
+title: Resume
 ---
 
 # Resume
