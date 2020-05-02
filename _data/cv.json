@@ -74,16 +74,38 @@
         {
             "institution": "University of Trento",
             "area": "Computer Science",
-            "studyType": "Master",
+            "studyType": "M.Sc.",
             "startDate": "2010-09-01",
-            "endDate": "2012-09-01"
+            "endDate": "2012-09-01",
+            "courses": [
+                "145052 - Concurrency Theory",
+                "145071 - Real time operating systems and middleware",
+                "145049 - Computability"
+            ]
+        },
+        {
+            "institution": "Technical University of Denmark",
+            "area": "Computer Science",
+            "studyType": "Erasmus period (M.Sc.)",
+            "startDate": "2011-08-25",
+            "endDate": "2011-12-24",
+            "courses": [
+                "02825 - Introduction to Computer Game Prototyping",
+                "02561 - Computer Graphics - Introduction",
+                "02562 - Rendering - Introduction"
+            ]
         },
         {
             "institution": "University of Trento",
             "area": "Computer Science",
-            "studyType": "Bachelor",
+            "studyType": "B.Sc.",
             "startDate": "2006-09-01",
-            "endDate": "2010-09-01"
+            "endDate": "2010-09-01",
+            "courses": [
+                "45339 - Functional Computer Programming",
+                "45315 - Computer Architecture",
+                "45313 - Algorithms and Data Structures"
+            ]
         }
     ],
     "awards": [
