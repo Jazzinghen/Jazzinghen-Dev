@@ -76,9 +76,9 @@ since the times of trashy PS1 games rented at Blockbuster.
 
 ### Favourite videogames
 
-- **"Metal Gear Solid 3: Snake Eater"\
-  "Metal Gear Solid: Peace Walker"\
-  "Metal Gear Solid V: The Phantom Pain"**\
+- **"Metal Gear Solid 3: Snake Eater"**\
+  **"Metal Gear Solid: Peace Walker"**\
+  **"Metal Gear Solid V: The Phantom Pain"**\
   This, in my opinion, is the best trilogy in the game industry. Each game builds on top
   of the previous, expanding it in uninmaginable ways, but remaining faithful to the
   precedent. This is one of the games that made me say "I want to be able to make
@@ -87,7 +87,37 @@ since the times of trashy PS1 games rented at Blockbuster.
   made me start playing the non-lethal route in every game that has that option.
 
 - **"Vagrant Story"**\
-  fej
+  I played "Vagrant Story" on the PS1 when I was 17. It was a break from all the other
+  JRPGs I played up till that moment: no random encounters, only one character, weapon
+  customization, extreme non-linear exploration (a-la Metroidvania), body-part
+  targeting, no grid movements, per-weapon range, rhythm-based combo system. And on the
+  non-mechanics side there's a gripping story, believable characters, and a world
+  that had impact on future Squaresoft productions (e.g. "Final Fantasy XII" and
+  "Final Fantasy XIV: A Realm Reborn"). Every time I play a JRPG I cannot compare it
+  to "Vagrant Story".
+
+- **REZ**\
+  "REZ" (and its successor "Child of Eden") is the game that showed me what could be
+  done when game designers succeed in creating a new genre. "REZ" shows that rail
+  shooters can be good rhythm games. I still have the goosebumps while playing it now.
+
+- **Nier: Automata**\
+  "Nier: Automata" is the culmination of its creators' skills. I like how an Action
+  JRPG can have so many different play styles, not to mention that usually what this
+  sort of games has is a properly designed combat system (I am looking at you "YS" or
+  "Tokyo Xanadu: eX+"). The story, thanks to Yoko Taro, is a blast, the action, thanks
+  to Platinm Games, never gets old, and all of this is kept together by the slick
+  character design by Akihiko Yoshida (who worked at "Vagrant Story", "Final Fantasy
+  XII", and "Final Fantasy XIV: A Realm Reborn"; just to connect everything).
+
+- **Disco Elysium**\
+  This is a gem I found by chance on my Steam queue. I was completely taken by surprise
+  by it. "Disco Elysium" is a graphical adventure masked as a Western RPG, with a 
+  retro-sci-fi setting and a charismatic main character that, thanks to the interactions
+  and the player's choices, can trasform into anything between an alcoholic
+  superstar-cop or a corrupted capitalist with a soft spot for art by the end of the
+  game. This game not only reminds me of some of the best tabletop RPG campaigns I have
+  played, but has one of the best skills I have ever met: "shivers".
 
 ## Tabletop RPGs
 
