@@ -53,7 +53,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/headers/others.jpg
+  - image_path: /assets/images/headers/others.png
     alt: "Other projects header"
     title: "Other"
     excerpt: "All the projects that don't fall in the other categories"
