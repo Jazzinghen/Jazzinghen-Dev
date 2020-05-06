@@ -10,7 +10,7 @@
 }
 
 #cv .entry-content {
-    font-size: $type-size-5;
+    font-size: 1em;
 }
 
 /* Work-specific format
@@ -22,11 +22,13 @@
 #work .position {
     margin-top: 0em;
     font-style: italic;
+    opacity: $subtitle-opacity;
 }
 
 #work .date {
     font-style: italic;
     font-size: $type-size-6;
+    opacity: $subtitle-opacity;
 }
 
 #work .summary {
@@ -42,11 +44,13 @@
 #education .area {
     margin-top: 0em;
     font-style: italic;
+    opacity: $subtitle-opacity;
 }
 
 #education .date {
     font-style: italic;
     font-size: $type-size-6;
+    opacity: $subtitle-opacity;
 }
 
 /* Awards-specific format
@@ -58,11 +62,13 @@
 #awards .awarder {
     margin-top: 0em;
     font-style: italic;
+    opacity: $subtitle-opacity;
 }
 
 #awards .date {
     font-style: italic;
     font-size: $type-size-6;
+    opacity: $subtitle-opacity;
 }
 
 #awards .summary {
@@ -78,11 +84,13 @@
 #publications .publisher {
     margin-top: 0em;
     font-style: italic;
+    opacity: $subtitle-opacity;
 }
 
 #publications .date {
     font-style: italic;
     font-size: $type-size-6;
+    opacity: $subtitle-opacity;
 }
 
 #publications .summary {
