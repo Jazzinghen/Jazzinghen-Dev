@@ -1,5 +1,5 @@
 main:
   - title: "Resume"
     url: /resume/
-  - title: "Passions"
-    url: /passions/
+  - title: "Projects"
+    url: /projects/
