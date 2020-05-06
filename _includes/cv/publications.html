@@ -1,30 +1,30 @@
 {% if cv.publications %}
-  <div id="publications" class="entry">
+<div id="publications" class="entry">
     <header class="entry-header">
-      <h3 class="entry-title">Publications</h3>
+        <h2 class="entry-title">Publications</h2>
     </header>
 
     <div class="entry-content">
-      {% for p in cv.publications %}
+        {% for p in cv.publications %}
         {% if p.name %}
-          <h4 class="title">
+        <h4 class="title">
             {% if p.website %}
-              <a href="{{ p.website }}">{{ p.name }}</a>
+            <a href="{{ p.website }}">{{ p.name }}</a>
             {% else %}
-              {{ p.name }}
+            {{ p.name }}
             {% endif %}
-          </h4>
+        </h4>
         {% endif %}
         {% if p.releaseDate %}
-          <div class="date">{{ p.releaseDate }}</div>
+        <div class="date">{{ p.releaseDate }}</div>
         {% endif %}
         {% if p.publisher %}
-          <h5 class="publisher">{{ p.publisher | prepend: 'Published by ' }}</h5>
+        <h5 class="publisher">{{ p.publisher | prepend: 'Published by ' }}</h5>
         {% endif %}
         {% if p.summary %}
-          <div class="summary">{{ p.summary | markdownify }}</div>
+        <div class="summary">{{ p.summary | markdownify }}</div>
         {% endif %}
-      {% endfor %}
+        {% endfor %}
     </div>
-  </div>
+</div>
 {% endif %}
