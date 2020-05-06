@@ -9,6 +9,10 @@
     font-size: $type-size-2;
 }
 
+#cv .entry-content {
+    font-size: $type-size-5;
+}
+
 /* Work-specific format
    ========================================================================== */
 #work .name {
@@ -25,7 +29,11 @@
     font-size: $type-size-6;
 }
 
-/* Work-specific format
+#work .summary {
+    margin-top: 0.5em;
+}
+
+/* Education-specific format
    ========================================================================== */
 #education .institution {
     font-size: $type-size-3;
@@ -39,4 +47,50 @@
 #education .date {
     font-style: italic;
     font-size: $type-size-6;
+}
+
+/* Awards-specific format
+   ========================================================================== */
+#awards .title {
+    font-size: $type-size-3;
+}
+
+#awards .awarder {
+    margin-top: 0em;
+    font-style: italic;
+}
+
+#awards .date {
+    font-style: italic;
+    font-size: $type-size-6;
+}
+
+#awards .summary {
+    margin-top: 0.5em;
+}
+
+/* Publications-specific format
+   ========================================================================== */
+#publications .title {
+    font-size: $type-size-3;
+}
+
+#publications .publisher {
+    margin-top: 0em;
+    font-style: italic;
+}
+
+#publications .date {
+    font-style: italic;
+    font-size: $type-size-6;
+}
+
+#publications .summary {
+    margin-top: 0.5em;
+}
+
+/* Skills-specific format
+   ========================================================================== */
+#skills .title {
+    font-size: $type-size-3;
 }
