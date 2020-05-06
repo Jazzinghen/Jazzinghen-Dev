@@ -7,7 +7,7 @@ toc_icon: "dice-d20"
 
 ## "The Rollers"
 
-![alt text](/assets/images/The_Rollers_Flyer.png "The Rollers advertisement flyer")
+![alt text](/assets/images/The_Rollers_Flyer.jpg "The Rollers advertisement flyer")
 
 "The Rollers" was a GURPS 4th edition public one-shot session ran by me during the
 "GiocATrento 2011" game festival. I wrote the adventure scenario, the final character

@@ -7,7 +7,7 @@ toc_icon: "meteor"
 
 ## GLSL Raymarcher and Qt Node Compositor
 
-![alt text](/assets/images/GLSL_Raymarcher_Screenshot.png "GLSL Raymarcher screenshot")
+![alt text](/assets/images/GLSL_Raymarcher_Screenshot.jpg "GLSL Raymarcher screenshot")
 
 A joint project for both "Computer Graphics - Introduction" and "Rendering -
 Introduction" courses I attended at Technical University of Denmark. Did it together
