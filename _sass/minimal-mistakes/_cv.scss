@@ -1,0 +1,42 @@
+/* ==========================================================================
+   CV formatting
+   ========================================================================== */
+
+/* Global format
+   ========================================================================== */
+
+#cv header {
+    font-size: $type-size-2;
+}
+
+/* Work-specific format
+   ========================================================================== */
+#work .name {
+    font-size: $type-size-3;
+}
+
+#work .position {
+    margin-top: 0em;
+    font-style: italic;
+}
+
+#work .date {
+    font-style: italic;
+    font-size: $type-size-6;
+}
+
+/* Work-specific format
+   ========================================================================== */
+#education .institution {
+    font-size: $type-size-3;
+}
+
+#education .area {
+    margin-top: 0em;
+    font-style: italic;
+}
+
+#education .date {
+    font-style: italic;
+    font-size: $type-size-6;
+}
