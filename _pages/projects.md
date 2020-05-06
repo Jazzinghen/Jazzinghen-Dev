@@ -39,7 +39,7 @@ dynamic water level system, an enemy area of operations editor for level creatio
 Project created for the [Games [4Design] Jam][2] at [CHI'13][3] in a team. It's a physical
 controller based game that helped people getting accustomed to the way of greeting in
 France: each player wore a "pendant", an Arduino board with batteries and a red LED
-Matrix, and two "kiss sensors" on their cheecks. The target was to go around the
+Matrix, and two "kiss sensors" on their cheeks. The target was to go around the
 conference floor to greet people by touching both cheeks. Each time the greeting was
 done correctly a big pixel-art heart would fill. The first player to fill the heart was
 the winner. I worked on the game design and the implementation of the game.
@@ -48,7 +48,7 @@ the winner. I worked on the game design and the implementation of the game.
 
 ![alt text](/assets/images/OHR_Gameplay.jpg "OHR and Radiant Square gameplay")
 
-Game and physical controller prototypoes created together with Adriano Siesser, Andrea
+Game and physical controller prototypes created together with Adriano Siesser, Andrea
 Conci, Raul Masu and Zeno Menestrina. "OHR" is a game created to explore different
 modalities of play, both classical and tangible, powered by Unity3D and a custom-built
 hardware interface called "Radiant Square (Radiant2)". I participated in every phase of
@@ -127,8 +127,8 @@ I have ran a few homebrew campaigns in different game systems, such as "GURPS 4t
 
 ![alt text](/assets/images/Scarborough_Fair.jpg "Scarborough Fair shot")
 
-My first custom mechanical keyboard, also my first ortoholinear keyboard, as well as
-my first split keyboard. This was both a blast to make and a tour the force. Due to my
+My first custom mechanical keyboard, also my first ortholinear keyboard, as well as
+my first split keyboard. This was both a blast to make and a tour de force. Due to my
 inexperience I had to resolder some switches and the underglow system multiple times
 during the months after I soldered it. A big thanks goes to both [Andrew Huie][9] and
 [Jeffrey Xiao][10] for their help with this. I was ready to flip tables.

@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
@@ -95,9 +95,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
-    - label: "LeetCode"
-      icon: "fas fa-fw fa-keyboard"
-      url: "https://leetcode.com/jazzinghen/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steamcommunity.com/id/Jazzinghen"
 
 footer:
   links:
@@ -107,9 +107,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
-    - label: "LeetCode"
-      icon: "fas fa-fw fa-keyboard"
-      url: "https://leetcode.com/jazzinghen/"
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
       url: "https://steamcommunity.com/id/Jazzinghen"
@@ -122,16 +119,17 @@ defaults:
   - scope:
       path: "_posts"
     values:
-      layout: post
+      layout: single
       author_profile: true
       read_time: true
       share: true
       related: true
   # _pages
   - scope:
+      type: pages
       path: "_pages"
     values:
-      layout: page
+      layout: single
       author_profile: false
 
 category_archive:

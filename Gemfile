@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0"
-gem "jekyll-theme-basically-basic"
+gem "minimal-mistakes-jekyll"
 
 gem "activesupport", ">= 4.1.11"
 
