@@ -31,7 +31,7 @@ worries.
 During high school I worked on a couple games. It was the time of FLASH, Game Maker and
 RPGMaker, however my friends really wanted to write a 3D engine from scratch. It didn't
 go too well, but I worked with another friend on the design and on retrieving data for
-it. With the same friend I made a _very silly_ RPGMaker game. It was a blast. We would 
+it. With the same friend I made a _very silly_ RPGMaker game. It was a blast. We would
 meet once or twice a week to work on it: a lot of silly stuff, very litte testing, but
 we got to the end of it.
 
@@ -112,7 +112,7 @@ since the times of trashy PS1 games rented at Blockbuster.
 
 - **Disco Elysium**\
   This is a gem I found by chance on my Steam queue. I was completely taken by surprise
-  by it. "Disco Elysium" is a graphical adventure masked as a Western RPG, with a 
+  by it. "Disco Elysium" is a graphical adventure masked as a Western RPG, with a
   retro-sci-fi setting and a charismatic main character that, thanks to the interactions
   and the player's choices, can trasform into anything between an alcoholic
   superstar-cop or a corrupted capitalist with a soft spot for art by the end of the

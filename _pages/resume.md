@@ -1,5 +1,4 @@
 ---
-title: Resume
 permalink: /resume/
 layout: cv
 actions:

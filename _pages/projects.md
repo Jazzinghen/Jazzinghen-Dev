@@ -115,7 +115,7 @@ sheets, created the [game materials, and the flyer][7].
 During my life as a tabletop roleplaying player I have participated in countless
 campaigns as player character, often helping out other players with character creation
 and rules. I learned a lot how to play and how to run campaigns from a large amount of
-examples. They are a great way 
+examples.
 
 I have ran a few homebrew campaigns in different game systems, such as "GURPS 4th",
 "Pathfinder", and "Burning Wheel". I have also ran the prebuilt campaigns "Jade Regent",
