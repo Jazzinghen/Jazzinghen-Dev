@@ -19,45 +19,45 @@ excerpt: |
 
         I love videogames, tabletop RPGs, and anime. They are what allowed me to get here.
 intro: 
-  - title: 'Projects'
+  - title: "Projects"
 feature_row1:
   - image_path: /assets/images/headers/ge-mu.jpg
-    alt: "placeholder image 2"
+    alt: "Games header"
     title: "Games"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: "Games I worked on for passion, university or research"
+    url: "/projects/games"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/headers/science.jpg
-    alt: "placeholder image 2"
+    alt: "Research projects header"
     title: "Research"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    excerpt: "Research projects I worked on during my academia period"
+    url: "/projects/research"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/headers/rpg.jpg
-    alt: "placeholder image 2"
+    alt: "Tabletop RPGs header"
     title: "Tabletop RPGs"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    excerpt: "Various tabletop RPGs materials I created while playing one of my favourite forms of game"
+    url: "/projects/rpg"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/headers/keebs.jpg
-    alt: "placeholder image 2"
+    alt: "Keyboards header"
     title: "Mechanical Keyboards"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    excerpt: "Keyboards I made to use at work or at home"
+    url: "/projects/keyboards"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/headers/others.jpg
-    alt: "placeholder image 2"
+    alt: "Other projects header"
     title: "Other"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    excerpt: "All the projects that don't fall in the other categories"
+    url: "/projects/other"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
