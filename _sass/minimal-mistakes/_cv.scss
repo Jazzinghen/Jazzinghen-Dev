@@ -1,0 +1,104 @@
+/* ==========================================================================
+   CV formatting
+   ========================================================================== */
+
+/* Global format
+   ========================================================================== */
+
+#cv header {
+    font-size: $type-size-2;
+}
+
+#cv .entry-content {
+    font-size: 1em;
+}
+
+/* Work-specific format
+   ========================================================================== */
+#work .name {
+    font-size: $type-size-3;
+}
+
+#work .position {
+    margin-top: 0em;
+    font-style: italic;
+    opacity: $subtitle-opacity;
+}
+
+#work .date {
+    font-style: italic;
+    font-size: $type-size-6;
+    opacity: $subtitle-opacity;
+}
+
+#work .summary {
+    margin-top: 0.5em;
+}
+
+/* Education-specific format
+   ========================================================================== */
+#education .institution {
+    font-size: $type-size-3;
+}
+
+#education .area {
+    margin-top: 0em;
+    font-style: italic;
+    opacity: $subtitle-opacity;
+}
+
+#education .date {
+    font-style: italic;
+    font-size: $type-size-6;
+    opacity: $subtitle-opacity;
+}
+
+/* Awards-specific format
+   ========================================================================== */
+#awards .title {
+    font-size: $type-size-3;
+}
+
+#awards .awarder {
+    margin-top: 0em;
+    font-style: italic;
+    opacity: $subtitle-opacity;
+}
+
+#awards .date {
+    font-style: italic;
+    font-size: $type-size-6;
+    opacity: $subtitle-opacity;
+}
+
+#awards .summary {
+    margin-top: 0.5em;
+}
+
+/* Publications-specific format
+   ========================================================================== */
+#publications .title {
+    font-size: $type-size-3;
+}
+
+#publications .publisher {
+    margin-top: 0em;
+    font-style: italic;
+    opacity: $subtitle-opacity;
+}
+
+#publications .date {
+    font-style: italic;
+    font-size: $type-size-6;
+    opacity: $subtitle-opacity;
+}
+
+#publications .summary {
+    margin-top: 0.5em;
+}
+
+/* Skills-specific format
+   ========================================================================== */
+#skills .title {
+    font-size: $type-size-3;
+}

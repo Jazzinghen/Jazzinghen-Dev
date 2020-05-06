@@ -13,21 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Michele \"Jazzinghen\" Bianchi"
-subtitle: "80% Videogames, 20% Rest"
-name: "Michele Bianchi"
+title: "Michele Bianchi"
+# subtitle: "80% Games, 20% Other Stuff"
+name: "Michele \"Jazzinghen\" Bianchi"
 email: michele.bianchi@protonmail.com
 description: >-
   Michele Bianchi is a software engineer with a soft spot for videogames, tabletop
-  Role Playing Games, Anime and writing code to make the life of his colleagues easier.
-  He's alyways on the lookout for the next projet that will make his blood boil with
-  passion.
+  Role Playing Games, Anime, and writing code to make the life of his colleagues easier.
 twitter:
   username: "jazzinghen"
 github:
   username: "jazzinghen"
 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: jazzinghen_dark
 search: true
 search_provider: algolia
 
@@ -42,12 +40,12 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: Asia/Tokyo
 repository: "jazzinghen/DayStriders"
 url: "https://jazzinghen.dev"
-
+title_separator: "|"
 
 include:
   - _pages
@@ -72,25 +70,32 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
+
+social:
+  links:
+    - "https://twitter.com/Jazzinghen"
+    - "https://github.com/jazzinghen"
+    - "https://www.linkedin.com/in/jazzinghen/"
+
 
 author:
-  name   : "Michele Bianchi"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio: "" # Note: Markdown is allowed
+  name   : "Michele \"Jazzinghen\" Bianchi"
+  avatar : "/assets/images/self_portrait_square.png"
+  bio: >-
+    C++ Software Engineer with 5 years of multiplatform simulation, SDK and embedded
+    systems development in R&D environments. 2 years of academic research experience
   location: "Tokyo, Japan"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jazzinghen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jazzinghen"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
-    - label: "LeetCode"
-      icon: "fas fa-fw fa-keyboard"
-      url: "https://leetcode.com/jazzinghen/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steamcommunity.com/id/Jazzinghen"
 
 footer:
   links:
@@ -100,29 +105,30 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jazzinghen/"
-    - label: "LeetCode"
-      icon: "fas fa-fw fa-keyboard"
-      url: "https://leetcode.com/jazzinghen/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steamcommunity.com/id/Jazzinghen"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/jqfsot0xfx3ynfdcebmouip5z"
 
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_posts"
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
   # _pages
   - scope:
-      path: "_pages"
       type: pages
+      path: "_pages"
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

@@ -1,0 +1,16 @@
+---
+layout: single
+author_profile: true
+classes: wide
+---
+
+{% assign cv = site.data.cv %}
+
+<div id="cv">
+    {% include cv/work.html %}
+    {% include cv/education.html %}
+    {% include cv/awards.html %}
+    {% include cv/publications.html %}
+    {% include cv/skills.html %}
+    {% include cv/languages.html %}
+</div>
