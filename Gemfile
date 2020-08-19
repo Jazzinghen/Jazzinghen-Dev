@@ -3,7 +3,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0"
 gem "minimal-mistakes-jekyll"
 
-gem "activesupport", ">= 4.1.11"
+gem "activesupport", ">= 6.0.3.1"
+gem "kramdown", ">= 2.3.0"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
