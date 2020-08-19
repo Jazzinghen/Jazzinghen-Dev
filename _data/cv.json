@@ -40,7 +40,8 @@
                 "Integrated RPC and MSGpack in the simulator to allow external control of the simulation, used also in the sister project for robotics simulation, effectively providing a remote interface for all in-house simulators",
                 "Handled multi platform deployment of the simulator, while also maintaining the CI pipeline, allowing it to be used on both Windows and Linux.",
                 "Lead a 4 person team for a scenario generation project for distributed adversary training, managing work between two technical artists and two software engineers.",
-                "Handled fixing, automatization, containerization and CI for a semantic map importing pipeline for an OpenSource simulator, removing all manual steps for internal distribution of ML training and validation maps"
+                "Handled fixing, automatization, containerization and CI for a semantic map importing pipeline for an OpenSource simulator, removing all manual steps for internal distribution of ML training and validation maps",
+                "Implemented an import and distribution pipeline for 3D assets for a machine learning training simulation for robotics, allowing for extending the data generation to the end user without the use of Unreal Editor"
             ]
         },
         {
