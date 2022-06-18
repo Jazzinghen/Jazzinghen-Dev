@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0"
+gem "webrick", "~> 1.7"
 gem "minimal-mistakes-jekyll"
 
 gem "activesupport", ">= 6.0.3.1"
