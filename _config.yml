@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Michele Bianchi"
-# subtitle: "80% Games, 20% Other Stuff"
+# subtitle: "Rip and Tear, until it is done."
 name: "Michele \"Jazzinghen\" Bianchi"
 email: michele.bianchi@protonmail.com
 description: >-
-  Michele Bianchi is a software engineer with a soft spot for videogames, tabletop
-  Role Playing Games, Anime, and writing code to make the life of his colleagues easier.
+  Michele Bianchi is a software engineer with a soft spot for videogames, mechanical keyboards,
+  tabletop Role Playing Games, Anime, and writing code to make the life of his colleagues easier.
 twitter:
   username: "jazzinghen"
 github:
@@ -83,8 +83,8 @@ author:
   name   : "Michele \"Jazzinghen\" Bianchi"
   avatar : "/assets/images/self_portrait_square.png"
   bio: >-
-    C++ Software Engineer with 5 years of multiplatform simulation, SDK and embedded
-    systems development in R&D environments. 2 years of academic research experience
+    C++ Software Engineer with 7 years of SDK, reinforcement learning, and
+    simulation development  in R&D environments. 2 years of academic research experience
   location: "Tokyo, Japan"
   links:
     - label: "GitHub"
