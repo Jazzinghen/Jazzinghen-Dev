@@ -99,7 +99,7 @@ GEM
       jekyll-paginate (~> 1.1)
       jekyll-sitemap (~> 1.3)
     minitest (5.16.0)
-    nokogiri (1.13.6)
+    nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     octokit (4.25.0)
@@ -132,7 +132,6 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
@@ -152,7 +151,6 @@ DEPENDENCIES
   kramdown (>= 2.3.0)
   minimal-mistakes-jekyll
   tzinfo-data
-  wdm (~> 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
