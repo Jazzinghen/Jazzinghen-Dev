@@ -43,6 +43,7 @@ permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
 timezone: Asia/Tokyo
+encoding: UTF-8
 repository: "jazzinghen/Jazzinghen-Dev"
 url: "https://jazzinghen.dev"
 title_separator: "|"
