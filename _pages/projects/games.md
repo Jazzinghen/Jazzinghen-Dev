@@ -5,6 +5,29 @@ toc: true
 toc_icon: "gamepad"
 ---
 
+## "THE FINALS"
+
+![alt text](/assets/images/TheFinals_Header.jpg "THE FINALS Keyart")
+
+The videogame I am currently working on at [Embark Studios][9]. I contributed to
+the physics subsystems that allow for level destruction in the game, and to its
+debug visualization.
+
+## "Arc Raiders"
+
+![alt text](/assets/images/ArcRaiders_Header.jpg "Arc Raiders Keyart")
+
+The first videogame I worked on at professional level at Embark Studios. I
+contributed to the [physically-based animation][7] (PBA) effort behind the
+largest enemies in the game, adding features to the machine learning pipeline,
+modifying the interface to PhysX inside Unreal Engine 4, and creating tools to
+accelerate the import of assets.
+
+The enemies are robots that are not animated in the classical way, but instead
+they have a trained "Machine learning brain" that learned how to deambulate by
+using their limbs. You can learn more on [this article by Tom Solberg][8] (one
+of my direct colleagues during this project).
+
 ## "OHR" and "Radiant Square"
 
 ![alt text](/assets/images/OHR_Gameplay_smaller.jpg "OHR and Radiant Square gameplay")
@@ -77,3 +100,6 @@ Together with one of these friends I made a small, silly, RPGMaker game called "
 [4]: https://chiplay.acm.org/2014/
 [5]: /assets/documents/Behaviour_Change_through_Videogames.pdf
 [6]: https://youtu.be/0Gh0tuTHAXk
+[7]: https://en.wikipedia.org/wiki/Physically_based_animation
+[8]: https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c
+[9]: https://www.embark-studios.com/

@@ -27,6 +27,14 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/headers/development.jpg
+    alt: "Development header"
+    title: "Development"
+    excerpt: "Various software development projects I worked on to learn new concepts"
+    url: "/projects/development"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/headers/science.jpg
     alt: "Research projects header"
     title: "Research"
@@ -34,7 +42,7 @@ feature_row2:
     url: "/projects/research"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/headers/rpg.jpg
     alt: "Tabletop RPGs header"
     title: "Tabletop RPGs"
@@ -42,7 +50,7 @@ feature_row3:
     url: "/projects/rpg"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row5:
   - image_path: /assets/images/headers/keebs.jpg
     alt: "Keyboards header"
     title: "Mechanical Keyboards"
@@ -50,7 +58,7 @@ feature_row4:
     url: "/projects/keyboards"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row6:
   - image_path: /assets/images/headers/others.jpg
     alt: "Other projects header"
     title: "Other"
@@ -71,3 +79,5 @@ feature_row5:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
