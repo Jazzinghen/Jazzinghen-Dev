@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.0"
 gem "webrick", "~> 1.7"
 gem "minimal-mistakes-jekyll"
 
-gem "activesupport", "~> 6.0"
+gem "activesupport", "~> 6.1"
 gem "kramdown", "~> 2.3"
 
 gem "tzinfo-data"
