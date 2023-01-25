@@ -10,7 +10,7 @@ gem "kramdown", "~> 2.3"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem 'commonmarker',       '~> 0.16', require: false
+gem 'commonmarker',       '~> 0.23', require: false
 gem 'email_reply_parser', '~> 0.5', require: false
 gem 'gemoji',             '~> 3.0', require: false
 gem 'RedCloth',           '~> 4.2', require: false
